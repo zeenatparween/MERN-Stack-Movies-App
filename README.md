@@ -1,4 +1,4 @@
-Overview:
+ Overview:
 The Movies Map application allows users to explore and discover information about movies, including details about the cast, release date, and filming locations on an interactive map.
 
 Technologies Used:
