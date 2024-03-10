@@ -3,8 +3,11 @@ The Movies Map application allows users to explore and discover information abou
 
 Technologies Used:
 . MongoDB: Database to store movie information.
+
 . Express.js: Backend framework to handle server-side logic and API routes.
+
 . React: Frontend library for building user interfaces.
+
 . Node.js: JavaScript runtime for server-side development.
 
 Prerequisites:
